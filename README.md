@@ -171,7 +171,7 @@ There is complete test coverage and they pass in all Python versions 3.10 and up
 
 ### Running Unit Tests
 
-First, install `pdm` using the instructions located [here](https://pdm-project.org/en/latest/#installation).
+First, install `pdm` using these [instructions](https://pdm-project.org/en/latest/#installation).
 
 Then, install the requirements using:
 
